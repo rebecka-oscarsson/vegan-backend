@@ -1,0 +1,34 @@
+{
+  "results":
+  {"results":[ {"id":716426,"title":"Cauliflower, Brown Rice, and Vegetable Fried Rice","image":"https://spoonacular.com/recipeImages/716426-312x231.jpg","imageType":"jpg"},{"id":715594,"title":"Homemade Garlic and Basil French Fries","image":"https://spoonacular.com/recipeImages/715594-312x231.jpg","imageType":"jpg"},{"id":644387,"title":"Garlicky Kale","image":"https://spoonacular.com/recipeImages/644387-312x231.jpg","imageType":"jpg"},{"id":782601,"title":"Red Kidney Bean Jambalaya","image":"https://spoonacular.com/recipeImages/782601-312x231.jpg","imageType":"jpg"},{"id":794349,"title":"Broccoli and Chickpea Rice Salad","image":"https://spoonacular.com/recipeImages/794349-312x231.jpg","imageType":"jpg"},{"id":766453,"title":"Hummus and Za'atar","image":"https://spoonacular.com/recipeImages/766453-312x231.jpg","imageType":"jpg"},{"id":716627,"title":"Easy Homemade Rice and Beans","image":"https://spoonacular.com/recipeImages/716627-312x231.jpg","imageType":"jpg"},{"id":798400,"title":"Spicy Black-Eyed Pea Curry with Swiss Chard and Roasted Eggplant","image":"https://spoonacular.com/recipeImages/798400-312x231.jpg","imageType":"jpg"},{"id":715769,"title":"Broccolini Quinoa Pilaf","image":"https://spoonacular.com/recipeImages/715769-312x231.jpg","imageType":"jpg"}]},
+  "weeklyMenu":[
+      {"id":1,
+        "day": "MÅNDAG",
+        "image":"./beetrootsoup.jpg",
+      "title":"Beetroot Soup with Sour Cream Swirl and Wholegrain Bread"},
+      {"id":2,
+        "day": "TISDAG",
+        "image":"./ricepaperroll.jpg",
+      "title":"Rainbow Rice Paper Rolls with Peanut Sauce"},
+      {"id":3,
+        "day": "ONSDAG",
+        "image":"./tempehskewers.jpg",
+      "title":"Spicy Tempeh Skewers with Peanut Sauce"},
+      {"id":4,
+        "day": "TORSDAG",
+        "image":"./veggiepizza.jpg",
+      "title":"Mediterranean Veggie Pizza"},
+      {"id":5,
+        "day": "FREDAG",
+        "image":"./toast.jpg",
+      "title":"Toasted Sourdough Bread with Toppings"},
+      {"id":6,
+        "day": "LÖRDAG",
+        "image":"./ricepudding.jpg",
+        "title":"Ricepudding with Fruits and Berries Topping"},
+      {"id":7,
+        "day": "SÖNDAG",
+        "image":"./veggieburger.jpg",
+      "title":"The Ultimate Veggie Burger"}
+    ]
+} 
