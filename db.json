@@ -4,7 +4,7 @@
   "weeklyMenu":[
       {"id":1,
         "day": "MÅNDAG",
-        "image":"../img/beetrootsoup.jpg",
+        "image":"./beetrootsoup.jpg",
       "title":"Beetroot Soup with Sour Cream Swirl and Wholegrain Bread"},
       {"id":2,
         "day": "TISDAG",
